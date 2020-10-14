@@ -1,2 +1,2 @@
 # POS
-POS Program using Python 3.2.3 and SQLite
+POS Program using Python 3.4.3 and SQLite
