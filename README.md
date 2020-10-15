@@ -1,2 +1,2 @@
 # POS
-POS Program using Python 3.4.3 and SQLite
+Salon point of sale (POS) program using Python 3.4.3 and SQLite
